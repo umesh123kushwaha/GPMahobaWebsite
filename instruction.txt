@@ -1,0 +1,15 @@
+Admin Module
+===============
+user id : admin123
+Password: admin
+
+Staff Pennal
+=================
+User Id: saurabh123gpm 
+Password:  staff
+
+Student Pennal
+
+User Id: santosh123
+Password: santosh
+
